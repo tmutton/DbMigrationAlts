@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbUp", "src\DbUp\DbUp.csproj", "{0A183678-A43A-4F84-9708-1BAA9264ACEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpMigrations", "src\SharpMigrations\SharpMigrations.csproj", "{918E0472-CEED-4FCC-9EC4-F5D3C4E2A564}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{0A183678-A43A-4F84-9708-1BAA9264ACEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A183678-A43A-4F84-9708-1BAA9264ACEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A183678-A43A-4F84-9708-1BAA9264ACEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918E0472-CEED-4FCC-9EC4-F5D3C4E2A564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918E0472-CEED-4FCC-9EC4-F5D3C4E2A564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918E0472-CEED-4FCC-9EC4-F5D3C4E2A564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918E0472-CEED-4FCC-9EC4-F5D3C4E2A564}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
