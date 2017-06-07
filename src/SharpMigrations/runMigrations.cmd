@@ -1,0 +1,1 @@
+"C:\Code\2540\DbMigrationAlts\packages\SharpMigrations.1.5.9\tools\SharpMigrator.exe" -a Sharp.Migrations.dll -c "Server=localhost;Port=5432;Database=dbMigration;User Id=postgres;Password=postgres;" -p "Npgsql" -m auto 
